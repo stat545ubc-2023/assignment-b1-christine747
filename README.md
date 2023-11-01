@@ -9,9 +9,9 @@ Here are the files that you will find in this repository:
 
 **README.md**: This markdown file contains details and overview about the project including what files are in the repository and what information each file contains.
 
-**assignmentb1.rmd**: This markdown file contains an initial exploratory analysis for part 1 of this mini-project.
+**assignmentb1.rmd**: This markdown file contains creating a function, function examples, and function testing.
 
-**mini-assignmentb1.md**: This file is the knitted output for the first project milestone with contents identical to mini-project-1.rmd.
+**assignmentb1.md**: This file is the knitted output with contents identical to assignmentb1.rmd.
 
 **.gitignore**: This text file tells git not to track certain files and folders that I don't want uploaded to my master repository. Needed if you want to configure a new repo.
 
